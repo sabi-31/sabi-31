@@ -1,9 +1,4 @@
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sabi-31&show_icons=true&theme=synthwave" alt="vrt" /> </p>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabi-31&show_icons=true&layout=compact&theme=synthwave"" alt="vrt" /> </p>
-
-  
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sabi-31&show_icons=true&theme=radical)
   
   
@@ -16,6 +11,4 @@
   
   ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-  
-<br>
-</div>
+ 
