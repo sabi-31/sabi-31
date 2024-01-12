@@ -26,25 +26,8 @@ I am Sabino Pereira, a Young and Passionate Developer working in India.
 
 
 # GITHUB STATUS.
-- ![Profile views](https://gpvc.arturio.dev/sabi-31)
 - [![GitHub followers](https://img.shields.io/github/followers/sabi-31.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/sabi-31?tab=followers)
 
-<p align = "center">
-  <br />
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
-  <code><img width="10%"   src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%"   src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <br />
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-  <br />
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
-  <br>
-</p>  
 
-<br>
 
-<p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabi-31&theme=tokyonight&" alt="sudsarkar13" /></p>
+<p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabi-31&theme=tokyonight&" alt="sabi-31" /></p>
