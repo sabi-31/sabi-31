@@ -2,13 +2,17 @@
 
 I am Sabino Pereira, a Young and Passionate Developer working in India.
 
-- 🌱 I’m currently learning **Rust**
+- 🧠 I’m currently learning **Rust**
 
 - 👨‍💻 All of my projects are available at my [Github](https://github.com/sabi-31)
 
 - 📝 I plan to start a [blog](https://blog.sabino.homes) (Still Under Developement)
 
 - 📫 Reach me at **sabino3110@gmail.com**
+
+
+
+[![Sabino's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/sabi-31/github-readme-stats)
 
 
 
