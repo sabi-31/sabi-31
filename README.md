@@ -12,7 +12,7 @@ I am Sabino Pereira, a Young and Passionate Developer working in India.
 
 
 
-[![Sabino's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/sabi-31/github-readme-stats)
+[![Sabino's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabi-31)](https://github.com/sabi-31/github-readme-stats)
 
 
 
