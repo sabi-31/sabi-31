@@ -20,15 +20,7 @@ I am Sabino Pereira, a Young and Passionate Developer working in India.
 <hr>
 <br>
 <div align="center" ><img src="https://github-profile-trophy.vercel.app/?username=sabi-31&theme=dracula&count_private=true"></div>
-
-
-
-
-
-
-# GITHUB STATUS.
-- [![GitHub followers](https://img.shields.io/github/followers/sabi-31.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/sabi-31?tab=followers)
-
-
-
-<p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabi-31&theme=tokyonight&" alt="sabi-31" /></p>
+<br>
+<hr>
+<br>
+<div align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=sabi-31&theme=dracula&" alt="sabi-31""></div>
