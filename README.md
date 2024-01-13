@@ -11,7 +11,7 @@ I am Sabino Pereira, a Young and Passionate Developer working in India.
 - 📫 Reach me at **sabino3110@gmail.com**
 
 
-<div><img src="https://github-readme-stats.vercel.app/api?username=sabi-31&show_icons=true&hide_border=true&theme=dracula"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabi-31&theme=dracula&hide=batchfile"></div>
+<div><img align="left" src="https://github-readme-stats.vercel.app/api?username=sabi-31&show_icons=true&hide_border=true&theme=dracula"> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabi-31&theme=dracula&hide=batchfile"></div>
 
 
 
