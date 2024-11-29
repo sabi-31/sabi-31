@@ -6,7 +6,7 @@ I am Sabino Pereira, a Young and Passionate Developer working in India.
 
 - 👨‍💻 All of my projects are available at my [Github](https://github.com/sabi-31)
 
-- 📝 You can check out more at my [website](https://sabino.homes)
+- 📝 You can check out more at my [website](https://sabino.social)
 
 - 📫 Reach me at **sabino3110@gmail.com**
 
