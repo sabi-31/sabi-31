@@ -2,7 +2,7 @@
 
 I am Sabino Pereira, a Young and Passionate Developer working in India.
 
-- 🧠 I’m currently learning **Rust**
+- 🧠 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at my [Github](https://github.com/sabi-31)
 
