@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Sabino Pereira, a Young and Passionate Developer working in India.
+I am Sabino Pereira, a Developer working in India.
 
 - 🧠 I’m currently learning **Flutter**
 
