@@ -6,7 +6,7 @@
 
 - I’m currently learning ◀️ [Flutter](https://flutter.dev/) and 🦀 [Rust](https://www.rust-lang.org/).
 
-- All of my projects are available on my 🗂️ [Github](https://github.com/sabi-31).
+- All of my projects are available on my 🗂️ [Github](https://github.com/sabi-31?tab=repositories).
 
 - You can check out more on my 🌐 [website](https://sabino.social).
 
