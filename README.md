@@ -8,7 +8,7 @@
 
 - All of my projects are available on my 🗂️ [Github](https://github.com/sabi-31?tab=repositories).
 
-- You can check out more on my 🌐 [website](https://sabino.social).
+- You can check out more on my 🌐 [website](https://sabino.in).
 
 - Reach me at ✉️ **<a href=mailTo:sabino3110@gmail.com> sabino3110@gmail.com</a>**.
 
